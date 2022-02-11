@@ -102,7 +102,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 09a56acb-7125-41cb-b7e9-e9c8d42a26e5)
-    (at 69.25 147.32)
+    (at 118.486 67.904)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -144,7 +144,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 11356591-8892-430b-bd07-dab8039f6efc)
-    (at 97.92 130.14)
+    (at 147.156 50.724)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -186,7 +186,7 @@
 
   (footprint "eConnector_JST_PSH:B3B-PH-SM4" (layer "F.Cu")
     (tedit 6203E46A) (tstamp 11a347fe-062b-48f1-bf87-c1198c5ec944)
-    (at 61 120.94)
+    (at 110.236 41.524)
     (property "MFR" "JST Sales America Inc.")
     (property "MPN" "B3B-PH-SM4-TBT(LF)(SN)")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -256,7 +256,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 1ac84470-ff35-4e92-8c90-2205b203daf4)
-    (at 77.27 147.32)
+    (at 126.506 67.904)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -298,7 +298,7 @@
 
   (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (layer "F.Cu")
     (tedit 5D9F72B1) (tstamp 389c668e-dc3f-4da6-bb1a-421f40d8c18e)
-    (at 83.9 139.74)
+    (at 133.136 60.324)
     (descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
     (property "MPN" "OPA1656ID")
@@ -357,7 +357,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 3e316427-d4e2-4ab3-abdd-2979c08e249c)
-    (at 106.37 121.18)
+    (at 155.606 41.764)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -399,7 +399,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 410277a1-1275-4bc9-a362-628a3ff19432)
-    (at 106.37 118.67)
+    (at 155.606 39.254)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -441,7 +441,7 @@
 
   (footprint "eConnector_JST_PSH:B3B-PH-SM4" (layer "F.Cu")
     (tedit 6203E46A) (tstamp 476b68f2-bf5c-427f-a2ce-69d4e7fd03f7)
-    (at 73.45 120.94)
+    (at 122.686 41.524)
     (property "MFR" "JST Sales America Inc.")
     (property "MPN" "B3B-PH-SM4-TBT(LF)(SN)")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -511,7 +511,7 @@
 
   (footprint "eConnector_JST_PSH:B3B-PH-SM4" (layer "F.Cu")
     (tedit 6203E46A) (tstamp 4787ebb5-3f56-411b-929d-e6250a57a430)
-    (at 61 140.04)
+    (at 110.236 60.624)
     (property "MFR" "JST Sales America Inc.")
     (property "MPN" "B3B-PH-SM4-TBT(LF)(SN)")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -579,9 +579,44 @@
     )
   )
 
+  (footprint "eBattery:BB-04" (layer "F.Cu")
+    (tedit 6205C20D) (tstamp 4e0c0da6-a302-49a1-8b88-4dccac856a0b)
+    (at 74.1934 147.828 90)
+    (attr smd)
+    (fp_text reference "REF**" (at 0 -0.5 90 unlocked) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 9f5c7a80-7220-432e-865b-d1468e8a8d4c)
+    )
+    (fp_text value "BB-04" (at 0 1 90 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 825ca21e-b6a1-4e84-a612-f8e2fae8ac04)
+    )
+    (fp_text user "${REFERENCE}" (at 0 2.5 90 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+      (tstamp 3c19fda9-55de-469e-9693-2d8993bca106)
+    )
+    (fp_line (start 35.010218 14.51) (end 35.005109 -12.095109) (layer "F.SilkS") (width 0.25) (tstamp 00627221-b0fd-448e-b5a6-250d249697c2))
+    (fp_line (start -32.605109 -14.495109) (end 32.605109 -14.495109) (layer "F.SilkS") (width 0.25) (tstamp 4687c479-536f-4d7c-9d3c-04c9b426c43c))
+    (fp_line (start -35.005109 -12.13) (end -35 12.1) (layer "F.SilkS") (width 0.25) (tstamp 858b182d-fdce-45a6-8c3a-626e9f7a9971))
+    (fp_line (start -32.6 14.5) (end 32.605109 14.505109) (layer "F.SilkS") (width 0.25) (tstamp c88340d4-f51e-4560-b5d7-7144fb4e8a04))
+    (fp_arc (start -35.005109 -12.095109) (mid -34.33 -13.82) (end -32.605109 -14.495109) (layer "F.SilkS") (width 0.254) (tstamp 47890384-6eaa-420c-b9ae-e68a6a7f17b5))
+    (fp_arc (start -32.6 14.5) (mid -34.324891 13.824891) (end -35 12.1) (layer "F.SilkS") (width 0.254) (tstamp 62c6f8ce-78e5-4ab3-bb01-2fcb0df87aa6))
+    (fp_arc (start 32.605109 -14.495109) (mid 34.33 -13.82) (end 35.005109 -12.095109) (layer "F.SilkS") (width 0.254) (tstamp 7da6dd22-6820-4812-8b65-ceb1440c016d))
+    (fp_arc (start 35.005109 12.105109) (mid 34.33 13.83) (end 32.605109 14.505109) (layer "F.SilkS") (width 0.254) (tstamp a543a4a0-b8e2-45a4-be48-7207020a5b1f))
+    (pad "" np_thru_hole circle (at -31 10.5 90) (size 3 3) (drill 2) (layers F&B.Cu *.Mask) (tstamp 7e509ce7-bdc7-45fb-b2d0-c14a958a5480))
+    (pad "" np_thru_hole circle (at 31 -10.5 90) (size 3 3) (drill 2) (layers F&B.Cu *.Mask) (tstamp ac99d2b9-3592-44c3-94eb-e556103750a4))
+    (pad "" np_thru_hole circle (at 31 10.5 90) (size 3 3) (drill 2) (layers F&B.Cu *.Mask) (tstamp c94b6f38-b2c7-494d-9fba-9edbdd8e122a))
+    (pad "" np_thru_hole circle (at -31 -10.5 90) (size 3 3) (drill 2) (layers F&B.Cu *.Mask) (tstamp d26fce45-c1d6-42bc-931d-972bf3799097))
+    (model ":elib_3d:BB-04.stp"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+  )
+
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 5c182dc8-7cf3-4094-b472-149cf81c0675)
-    (at 90.13 137.77)
+    (at 139.366 58.354)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -623,7 +658,7 @@
 
   (footprint "eElectroMechanical:CHS-01TA" (layer "F.Cu")
     (tedit 6203DF1E) (tstamp 63605522-e38d-450e-bf96-6c4425233163)
-    (at 94.022 127.705)
+    (at 143.258 48.289)
     (property "MFR" "Nidec Copal Electronics")
     (property "MPN" "CHS-01TA")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -661,7 +696,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 7379f6f4-2b4c-4882-a293-d78e1c79e351)
-    (at 101.93 126.35)
+    (at 151.166 46.934)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -703,7 +738,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 87172eaa-28ee-4200-be32-ad6321e063a8)
-    (at 57 147.57)
+    (at 106.236 68.154)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -745,7 +780,7 @@
 
   (footprint "eConnector_JST_PSH:B3B-PH-SM4" (layer "F.Cu")
     (tedit 6203E46A) (tstamp 8ee92b94-e0ac-4a8c-966c-2dbb166d66fb)
-    (at 85.9 120.94)
+    (at 135.136 41.524)
     (property "MFR" "JST Sales America Inc.")
     (property "MPN" "B3B-PH-SM4-TBT(LF)(SN)")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -815,7 +850,7 @@
 
   (footprint "eElectroMechanical:CHS-01TA" (layer "F.Cu")
     (tedit 6203DF1E) (tstamp 98fd095e-78d6-4a4e-9a29-7d1a8463b517)
-    (at 102.472 121.255)
+    (at 151.708 41.839)
     (property "MFR" "Nidec Copal Electronics")
     (property "MPN" "CHS-01TA")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -853,7 +888,7 @@
 
   (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" (layer "F.Cu")
     (tedit 5D9F72B1) (tstamp a44538df-f769-4b2b-a116-55d49bc00328)
-    (at 96.35 120.64)
+    (at 145.586 41.224)
     (descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "SOIC SO")
     (property "MPN" "OPA1656ID")
@@ -912,7 +947,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp a67d273f-44ca-4bba-a25c-9743db51238e)
-    (at 97.92 127.63)
+    (at 147.156 48.214)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -954,7 +989,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp ab858ab4-1935-4fe8-a349-f426ac178edc)
-    (at 73.26 147.32)
+    (at 122.496 67.904)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -996,7 +1031,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp b4224c00-58fe-42db-8f0b-576e679b776e)
-    (at 81.28 147.32)
+    (at 130.516 67.904)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -1038,7 +1073,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp ba347c81-6165-4ed4-9365-73df32213020)
-    (at 94.13 132.8)
+    (at 143.366 53.384)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -1080,7 +1115,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp bc5ea09e-512a-4e7b-8e4e-8b27a95f7381)
-    (at 81.68 144.22)
+    (at 130.916 64.804)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -1122,7 +1157,7 @@
 
   (footprint "eConnector_JST_PSH:B3B-PH-SM4" (layer "F.Cu")
     (tedit 6203E46A) (tstamp c318c389-2ee1-470c-91f8-8e7f659f9981)
-    (at 73.45 130.49)
+    (at 122.686 51.074)
     (property "MFR" "JST Sales America Inc.")
     (property "MPN" "B3B-PH-SM4-TBT(LF)(SN)")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -1192,7 +1227,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp cb2404b6-abdd-4aa4-87a7-e7f9e4da0557)
-    (at 65.24 147.32)
+    (at 114.476 67.904)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -1234,7 +1269,7 @@
 
   (footprint "eConnector_JST_PSH:B3B-PH-SM4" (layer "F.Cu")
     (tedit 6203E46A) (tstamp d287c5f4-94c8-4292-a208-cebeed9aeab9)
-    (at 73.45 140.04)
+    (at 122.686 60.624)
     (property "MFR" "JST Sales America Inc.")
     (property "MPN" "B3B-PH-SM4-TBT(LF)(SN)")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -1304,7 +1339,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp d479e681-50f6-4851-98d1-2f8d73184de4)
-    (at 61.23 147.32)
+    (at 110.466 67.904)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -1346,7 +1381,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp e992d0cb-f667-4b84-ab9c-c1f0f7cb5b42)
-    (at 97.92 125.12)
+    (at 147.156 45.704)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -1388,7 +1423,7 @@
 
   (footprint "eConnector_JST_PSH:B3B-PH-SM4" (layer "F.Cu")
     (tedit 6203E46A) (tstamp f4d4d0b5-c4d1-497d-ace4-6e351ce28b13)
-    (at 61 130.49)
+    (at 110.236 51.074)
     (property "MFR" "JST Sales America Inc.")
     (property "MPN" "B3B-PH-SM4-TBT(LF)(SN)")
     (property "Sheetfile" "uv_back.kicad_sch")
@@ -1458,7 +1493,7 @@
 
   (footprint "eConnector_JST_PSH:B3B-PH-SM4" (layer "F.Cu")
     (tedit 6203E46A) (tstamp f53bfaad-0288-43ea-b17a-4e87b71c51eb)
-    (at 85.9 130.49)
+    (at 135.136 51.074)
     (property "MFR" "JST Sales America Inc.")
     (property "MPN" "B3B-PH-SM4-TBT(LF)(SN)")
     (property "Sheetfile" "uv_back.kicad_sch")
